@@ -1,0 +1,17 @@
+{
+    "name": "easy-framework",
+    "description": "easy Project Template",
+    "keywords": ["easy", "framework", "php", "project template"],
+    "type": "project",
+    "require": {
+        "php": ">=5.4.0",
+        "filp/whoops": "*",
+        "catfan/medoo":"*"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
